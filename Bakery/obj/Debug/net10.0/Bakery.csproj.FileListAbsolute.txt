@@ -1,0 +1,14 @@
+/Users/yura/Documents/Bakery/bin/Debug/net10.0/Bakery
+/Users/yura/Documents/Bakery/bin/Debug/net10.0/Bakery.deps.json
+/Users/yura/Documents/Bakery/bin/Debug/net10.0/Bakery.runtimeconfig.json
+/Users/yura/Documents/Bakery/bin/Debug/net10.0/Bakery.dll
+/Users/yura/Documents/Bakery/bin/Debug/net10.0/Bakery.pdb
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/Bakery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/Bakery.AssemblyInfoInputs.cache
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/Bakery.AssemblyInfo.cs
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/Bakery.csproj.CoreCompileInputs.cache
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/Bakery.dll
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/refint/Bakery.dll
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/Bakery.pdb
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/Bakery.genruntimeconfig.cache
+/Users/yura/Documents/Bakery/obj/Debug/net10.0/ref/Bakery.dll
